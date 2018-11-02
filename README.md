@@ -12,4 +12,5 @@ lombok, 自动生成get, set方法<br>
 @NoArgsConstructor<br>
 提供一个无参构造<br>
 @EqualsAndHashCode<br>
-生成equals和hashcode方法
+生成equals和hashcode方法<br>
+详细参考:https://blog.csdn.net/motui/article/details/79012846
